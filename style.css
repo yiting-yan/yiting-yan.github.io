@@ -3,5 +3,9 @@ p{
 }
 img {
     border-radius: 8px;
-    width: 500px;
+    width: 450px;
   }
+
+h1{
+    color: black;
+}
